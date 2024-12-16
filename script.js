@@ -28,7 +28,7 @@ const properties = [
       name: 'Modern Home in Los Angeles',
       location: 'Los Angeles',
       price: 2000000,
-      imageUrl: 'https://cdn.onekindesign.com/wp-content/uploads/2018/04/Modern-Dream-House-McClean-Design-01-1-Kindesign.jpg',
+      imageUrl: 'https://ca-times.brightspotcdn.com/dims4/default/35bef68/2147483647/strip/true/crop/1280x659+0+0/resize/1200x618!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F7c%2F12a55d014839a0f0a6a3a0c46496%2Fimage-1.jpeg',
       description: 'A modern home located in Los Angeles with city views.'
     }
   ];
